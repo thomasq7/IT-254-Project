@@ -1,6 +1,7 @@
 # IT-254-Project
 
 Introduction
+
 An ultrasonic sensor measures the distance to an object using sound waves. The sensor emits high-frequency sound waves and listens for the
 echo. By calculating the time it takes for the echo to return, the sensor can determine how far away the object is. This project
 demonstrates how to use the HC-SR04 ultrasonic sensor with an Arduino to measure distance and display the results.
