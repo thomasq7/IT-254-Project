@@ -22,6 +22,7 @@ Steps:
 4. Connect the Echo pin to Pin 10 on the Arduino.
 
 
+
 Resources
 
 HC-SR04 Datasheet
