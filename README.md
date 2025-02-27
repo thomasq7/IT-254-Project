@@ -15,10 +15,10 @@ Project Parts required
 
 
 Steps:
-Connect the VCC pin of the HC-SR04 to the 5V pin on your Arduino.
-Connect the GND pin of the HC-SR04 to the GND pin on your Arduino.
-Connect the Trig pin to Pin 9 on the Arduino.
-Connect the Echo pin to Pin 10 on the Arduino.
+1. Connect the VCC pin of the HC-SR04 to the 5V pin on your Arduino.
+2. Connect the GND pin of the HC-SR04 to the GND pin on your Arduino.
+3. Connect the Trig pin to Pin 9 on the Arduino.
+4. Connect the Echo pin to Pin 10 on the Arduino.
 
 
 Resources
