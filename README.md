@@ -18,7 +18,15 @@ Steps:
 4. Connect the CS pin to Pin 10 on the Arduino.
 5. Connect the CLK pin to Pin 13 on the Arduino
 
+Install LedControl Library (The LedControl library is needed to control the MAX7219:)
 
+1. Open Arduino IDE.
+
+2. Go to Sketch → Include Library → Manage Libraries...
+
+3. Search for LedControl by Eberhard Fahle.
+
+4. Click Install.
 
 Resources
 
